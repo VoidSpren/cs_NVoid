@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 namespace cs_NVoid{
     class Comparison : Branch{
 
