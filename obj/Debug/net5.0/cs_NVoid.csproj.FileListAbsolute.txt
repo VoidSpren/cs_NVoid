@@ -1,0 +1,16 @@
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\bin\Debug\net5.0\cs_NVoid.exe
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\bin\Debug\net5.0\cs_NVoid.deps.json
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\bin\Debug\net5.0\cs_NVoid.runtimeconfig.json
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\bin\Debug\net5.0\cs_NVoid.runtimeconfig.dev.json
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\bin\Debug\net5.0\cs_NVoid.dll
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\bin\Debug\net5.0\ref\cs_NVoid.dll
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\bin\Debug\net5.0\cs_NVoid.pdb
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\obj\Debug\net5.0\cs_NVoid.csprojAssemblyReference.cache
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\obj\Debug\net5.0\cs_NVoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\obj\Debug\net5.0\cs_NVoid.AssemblyInfoInputs.cache
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\obj\Debug\net5.0\cs_NVoid.AssemblyInfo.cs
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\obj\Debug\net5.0\cs_NVoid.csproj.CoreCompileInputs.cache
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\obj\Debug\net5.0\cs_NVoid.dll
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\obj\Debug\net5.0\ref\cs_NVoid.dll
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\obj\Debug\net5.0\cs_NVoid.pdb
+C:\Users\juanc\Documents\code\csTest\cs_NVoid\obj\Debug\net5.0\cs_NVoid.genruntimeconfig.cache

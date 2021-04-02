@@ -1,0 +1,5 @@
+LET a = 5.5
+INPUT b
+LET c = a + b * b * a / 2
+
+PRINT c
