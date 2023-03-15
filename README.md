@@ -1,2 +1,2 @@
 # cs_NVoid
- A simple compiler for the BASIC programming language
+ A simple transpiler for the BASIC programming language
